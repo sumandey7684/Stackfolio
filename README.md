@@ -1,4 +1,5 @@
-## Sugoi Portfolio Browser :3
+# Stackfolio - The Portfolio Browser
+## Build by Suman Dey With ❤️
 
 A curated collection of standout portfolio inspirations and impressive personal websites I’ve discovered over time.
 
@@ -82,5 +83,3 @@ A curated collection of standout portfolio inspirations and impressive personal 
 - [Trish](https://devlogs.xyz/about)
 
 </details>
-   
-![Alt text](https://i.ibb.co/jkF1ZctF/Screenshot-2025-07-21-235920.png)
